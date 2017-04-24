@@ -1,0 +1,6 @@
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+c:\users\2takk\documents\visual studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
