@@ -10,7 +10,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(sumEvenFib(4000000)); 
         }
 
         static long sumMultiple3t5(int limit)
@@ -28,18 +28,29 @@ namespace ProjectEuler
             return result;
         }
 
-        static long sumEvenFib(int limit)
+        static long sumEvenFib(long limit)
         {
             long result = 0;
+            int count = 1;
+            long fib = 0;
             List<long> fibList = new List<long>();
+            fibList.Add(1);
+            fibList.Add(2);
 
-            for(int i = 1; i < limit; i++ )
+            while(fib < limit)
             {
-                
-                if(((i-1)+i)%2 == 0 && )
-
+                fib = (fibList[count] + fibList[count - 1]);
+                fibList.Add(fib);
+                count++;
             }
 
+            foreach(long e in fibList)
+            {
+                if(e%2 == 0)
+                {
+                    result += e;
+                }
+            }
             return result;
         }
     }
