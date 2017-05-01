@@ -11,7 +11,9 @@ namespace Projects
         static void Main(string[] args)
         {
             EasyProjects p = new EasyProjects();
-            p.FindSumOfPrimesBelow();
+            Console.WriteLine(p.FindSumOfPrimesBelow());
+            
+
 
 
         }

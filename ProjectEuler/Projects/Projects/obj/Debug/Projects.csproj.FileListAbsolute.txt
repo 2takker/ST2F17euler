@@ -4,3 +4,9 @@ C:\Users\herni\OneDrive\Documents\ProjectEuler\Projects\Projects\bin\Debug\Proje
 C:\Users\herni\OneDrive\Documents\ProjectEuler\Projects\Projects\obj\Debug\Projects.csprojResolveAssemblyReference.cache
 C:\Users\herni\OneDrive\Documents\ProjectEuler\Projects\Projects\obj\Debug\Projects.exe
 C:\Users\herni\OneDrive\Documents\ProjectEuler\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\herni\OneDrive\Documents\GitHub\ST2F17euler\ProjectEuler\Projects\Projects\obj\Debug\Projects.csprojResolveAssemblyReference.cache
