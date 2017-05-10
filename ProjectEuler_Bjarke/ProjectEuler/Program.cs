@@ -10,49 +10,37 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(sumEvenFib(4000000)); 
-        }
+            //Prime p = new Prime();
 
-        static long sumMultiple3t5(int limit)
-        {
-            long result = 0;
+            //List<int> pList = p.generatePrime(20);   
 
-            for (int i = 1; i < limit; i++)
+            //foreach (int e in pList)
+            //{
+            //    Console.WriteLine(e);
+            //}
+
+            //Console.WriteLine("max:" + pList.Max());
+
+            List<string> kommentar = new List<string>();
+
+            kommentar.Add("...");
+            kommentar.Add(" :c");
+
+            Console.WriteLine(kommentar.ToString());
+
+            string output = "Kommentarer: \n";
+
+            foreach (string e in kommentar)
             {
-                if (i % 3 == 0 || i % 5 == 0)
-                {
-                    result += i;
-                }
+                output += "" + e + "\n";
             }
 
-            return result;
+            Console.WriteLine(output);
+
+
+
         }
 
-        static long sumEvenFib(long limit)
-        {
-            long result = 0;
-            int count = 1;
-            long fib = 0;
-            List<long> fibList = new List<long>();
-            fibList.Add(1);
-            fibList.Add(2);
-
-            while(fib < limit)
-            {
-                fib = (fibList[count] + fibList[count - 1]);
-                fibList.Add(fib);
-                count++;
-            }
-
-            foreach(long e in fibList)
-            {
-                if(e%2 == 0)
-                {
-                    result += e;
-                }
-            }
-            return result;
-        }
     }
 
 }
