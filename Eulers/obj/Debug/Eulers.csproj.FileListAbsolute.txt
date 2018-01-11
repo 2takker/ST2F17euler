@@ -1,6 +1,0 @@
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\bin\Debug\Eulers.exe.config
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\bin\Debug\Eulers.exe
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\bin\Debug\Eulers.pdb
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\obj\Debug\Eulers.csprojResolveAssemblyReference.cache
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\obj\Debug\Eulers.exe
-C:\Users\Anders\documents\visual studio 2015\Projects\Projekter\Eulers\obj\Debug\Eulers.pdb
