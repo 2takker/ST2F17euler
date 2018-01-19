@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Problems11to20\CollatzData.cs" />
     <Compile Include="Problems11to20\Problem11.cs" />
+    <Compile Include="Problems11to20\Problem14.cs" />
     <Compile Include="Problems1to10\Problem1.cs" />
     <Compile Include="Problems1to10\Problem10.cs" />
     <Compile Include="Problems1to10\Problem2.cs" />
